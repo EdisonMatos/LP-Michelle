@@ -144,11 +144,12 @@ const contentLp01 = {
         Compreendo que, em questões previdenciárias, a agilidade é essencial
         para nossos clientes. Por isso, atuo de maneira rápida e estratégica,
         sempre mantendo a excelência na qualidade. Meu compromisso é garantir
-        que seus direitos sejam protegidos com eficiência e determinação. <br />
+        que seus direitos sejam protegidos com eficiência e determinação.
+        <br />
         <br /> Independentemente da sua necessidade previdenciária, estou aqui
-        para oferecer a melhor solução jurídica. Entre em contato com Matthäus
-        Advocacia e descubra como podemos ser fundamentais na defesa dos seus
-        direitos.
+        para oferecer a melhor solução jurídica. Entre em contato com a Dra
+        Michelle Florentino e descubra como posso ser fundamental na defesa dos
+        seus direitos.
       </p>
     ),
     buttonLabel: "Quero falar com a Dra. Michelle",
